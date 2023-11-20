@@ -1,5 +1,5 @@
 # Rune Cheat Engine V1.8.10
-Witaj na moim profilu GitHub! Jestem [Twoje Imię].
+
 
 ## Fixed UWP crashing and Web (Not full proof just dont be dumb)
 Fixed some injection erroring (still requires tools) 😢
