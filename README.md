@@ -7,5 +7,5 @@ Spoofs RUNE_CE window
 Obfuscates strings, will deobfuscate on process launch
 Thanks to Dokkit for Redoing RuneCe source and forcing me to compile with CMAKE in mvsc 💀
 
-## Assets 
+
 
